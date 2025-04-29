@@ -1,1 +1,1 @@
-# persianValidate
+# نصب و استفاده
